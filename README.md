@@ -8,5 +8,4 @@ To use it
 5. Start Macro
 
 Optional discord webhook functionality
-![Detection Area](<img width="17" height="73" alt="image" src="https://github.com/user-attachments/assets/abf4c9ab-a833-4fed-be32-f2c7b8357040" />
-)
+![Detection Area](https://i.imgur.com/PtSFSRK.png)
