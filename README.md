@@ -8,3 +8,4 @@ To use it
 5. Start Macro
 
 Optional discord webhook functionality
+![Detection Area](https://imgur.com/a/detection-zone-yDWaCH2#PtSFSRK)
