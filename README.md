@@ -1,5 +1,6 @@
 This is a charm reroller for the ROBLOX game Dig 
-Made by Yark Spade
+
+**Made by Yark Spade**
 
 To use it 
 1. Use the pencil button to set the pencil click
