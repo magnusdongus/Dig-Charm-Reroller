@@ -8,7 +8,3 @@ To use it
 5. Start Macro
 
 Optional discord webhook functionality
-
-●B Luck:
- C Luck:
- D Luck:●
