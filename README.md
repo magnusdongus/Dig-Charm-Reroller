@@ -8,4 +8,8 @@ To use it
 5. Start Macro
 
 Optional discord webhook functionality
+
+This is the optimal area for Grade Area
+First click select the top left of the first Letter 
+Second click select the bottom right of the last letter
 ![Detection Area](https://i.imgur.com/PtSFSRK.png)
