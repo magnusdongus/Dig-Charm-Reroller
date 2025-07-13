@@ -9,8 +9,6 @@ To use it
 
 Optional discord webhook functionality
 
-'''
-●B Luck:    ← Click on top left of B
+●B Luck:
  C Luck:
- D● Luck:   ← Click on bottom right of D
-'''
+ D Luck:●
