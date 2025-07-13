@@ -18,3 +18,4 @@ This is the optimal area for Grade Area
 1. First click select the top left of the first Letter
 2. Second click select the bottom right of the last letter
 
+If you somehow need support come to discord.gg/moris
