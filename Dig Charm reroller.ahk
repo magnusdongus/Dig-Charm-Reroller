@@ -8,7 +8,7 @@ settingsFile := A_ScriptDir . "\CharmReroller.ini"
 clicking := false
 pencilX := 0, pencilY := 0
 yesX := 0, yesY := 0
-delay := 3000
+delay := 1
 ssTargetCount := 2
 ssX1 := 0, ssY1 := 0, ssX2 := 0, ssY2 := 0
 ssAreaSet := false
